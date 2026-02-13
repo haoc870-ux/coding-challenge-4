@@ -28,6 +28,10 @@ h1 {
 .btn:active {
   transform: scale(0.96);
 }
+.btn:focus {
+  outline: 3px solid #4c8bf5;
+  outline-offset: 2px;
+}
 
 .footer {
   margin-top: 20px;
