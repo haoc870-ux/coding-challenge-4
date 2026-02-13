@@ -9,7 +9,10 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background: linear-gradient(135deg, #f5f7fa, #e4ecf7);
 }
+
+
 
 .btn {
   transition: transform 0.2s ease;
