@@ -2,4 +2,9 @@
 hello from Nora
 Hello_Ashley Zeng
 Hello_Carol
-<h1>Hello Collaboration!</h1>
+body {
+      background-color: #f5f5f5;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
